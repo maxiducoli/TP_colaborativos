@@ -1,2 +1,6 @@
 # TP_colaborativos
-Trabajos prácticos grupales
+Trabajo practico integrador I (Matematicas y Programacion)
+Integrantes:
+Ducoli, Maximiliano
+Farias, Gustavo
+Elizondo, Iñaki
