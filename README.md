@@ -1,6 +1,8 @@
 # TP_colaborativos
-Trabajo practico integrador I (Matematicas y Programacion)
-Integrantes:
-Ducoli, Maximiliano
-Farias, Gustavo
-Elizondo, Iñaki
+**Trabajo Práctico Integrador I**  
+**Materias:** Matemáticas y Programación I  
+
+## Integrantes:
+- Ducoli, Maximiliano  
+- Farias, Gustavo  
+- Elizondo, Iñaki
