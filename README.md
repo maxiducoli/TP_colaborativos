@@ -6,3 +6,5 @@
 - Ducoli, Maximiliano  
 - Farias, Gustavo  
 - Elizondo, Iñaki
+- Thiago
+- Nicolás
